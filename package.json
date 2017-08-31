@@ -1,0 +1,27 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {  
+  "transpile": "babel --presets es2015 js/index.js -o build/main.bundle.js",  
+  "start": "http-server" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanawatmoss/hw2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanawatmoss/hw2/issues"
+  },
+  "homepage": "https://github.com/tanawatmoss/hw2#readme",
+  "dependencies": {
+    "add": "^2.0.6",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "http-server": "^0.10.0"
+  }
+}
