@@ -42,6 +42,7 @@ h1 { font-size:5em; line-height:1.5; }
   align-items:center;
   align-content:center;
   height:57px;
+  width:50px;
   border:2px solid rgba(0,0,0,0.08);
   cursor:pointer;
 }
