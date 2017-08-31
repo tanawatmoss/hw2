@@ -45,6 +45,7 @@ h1 { font-size:5em; line-height:1.5; }
   border:2px solid rgba(0,0,0,0.08);
   cursor:pointer;
 }
+
 sup, sub { outline:1px solid magenta; display:block; align-self:center; }
 
 .key:active { transform:translateY(1px); background:#333; box-shadow:0 1px 0 #000;}
